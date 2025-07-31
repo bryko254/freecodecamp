@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PSQL="psql --username=postgres --dbname=number_guess --tuples-only -c"
+PSQL="psql --username=freecodecamp --dbname=number_guess --tuples-only -c"
 
 echo "Enter your username:"
 read USERNAME
